@@ -1,4 +1,4 @@
 # Image-Processing
-Data visualization using Google Colab
+Data visualization projects I have completed using Google Colab.
 
-This repository contains personal image processing projects I have completed that showcase my understanding of image and data visualizaiton tools.
+This repository contains personal image processing projects that showcase my understanding of image and data visualizaiton tools.
